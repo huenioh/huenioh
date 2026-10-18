@@ -8,11 +8,10 @@
 
 ## 🚀 Sobre mim
 
-- 💼 Consultor Power Platform, trabalhando remotamente direto de Pernambuco.
+- 💼 Consultor Power Platform.
 - 🤖 Construo **agentes de IA** e **automações** para clientes com Microsoft Copilot Studio, Azure AI Foundry e Power Automate.
 - 📱 Desenvolvo apps em **Power Apps** integrados a SharePoint e Dataverse.
 - 💻 Background em desenvolvimento backend com Node.js e Python.
-- 🎓 Finalizando Análise e Desenvolvimento de Sistemas na UNINASSAU.
 - 🎮 Nas horas vagas: desenvolvimento de jogos (Unity, Roblox/Luau) e modelagem 3D no Blender.
 - 🎯 Objetivo: me especializar em soluções de IA agêntica no ecossistema Microsoft.
 
@@ -47,14 +46,6 @@
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white)
 
----
-
-## 📜 Certificações
-
-- 🎯 Em andamento: **PL-400** — Microsoft Power Platform Developer
-- 🔭 Próximos passos: **AI Agent Builder Associate** e **AI-102** (Azure AI Engineer)
-
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -63,29 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huenioh&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
----
 
-## 🌟 Projetos
-
-### 🐾 SaaS para clínicas veterinárias
-Aplicação multi-tenant para gestão de clínicas veterinárias, com foco em arquitetura, modelagem de banco e segurança entre clientes.
-
-### 🌵 Feirado
-App que constrói histórico de crédito informal para pequenos comerciantes e produtores rurais do sertão.
-
-### ⚔️ Calculadora de refino — Albion Online
-Site em Python/Flask + Bootstrap que consome dados de mercado da AODP para dizer se vale a pena refinar ou craftar um item.
-🛠️ Python, Flask, Bootstrap
-
-### 🧟 Zona Morta
-MMORPG de sobrevivência zumbi inspirado no Dead Frontier, sendo recriado na Unity 6 com modelos próprios no Blender.
-🛠️ Unity, C#, Blender
-
-### 📚 Sistema de gerenciamento para biblioteca
-API backend em Node.js com Express: CRUD de usuários e livros, controle de empréstimos e relatórios.
-🛠️ React, Node.js, MySQL — 🚀 [Ver projeto](https://github.com/huenioh/biblioteca-api)
-
----
 
 ## 📫 Contato
 
